@@ -62,13 +62,13 @@ cd Python.IA-OtimizacaoRotas
 
 A seguir, alguns exemplos de gráficos gerados automaticamente pelo Algoritmo Genético:
 
-**Distribuição Circular**:
+***Distribuição Circular**:
 
 ![Rota Circular](circular/circular_plots1.png)
 
 *Gráfico da melhor rota para pontos dispostos em círculo e evolução da distância ao longo das gerações.*
 
-**Distribuição Uniforme**:
+***Distribuição Uniforme**:
 
 ![Rota Distribuída](distribuida/distribuida_plots1.png)
 
