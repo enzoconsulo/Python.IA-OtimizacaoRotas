@@ -64,12 +64,12 @@ A seguir, alguns exemplos de gráficos gerados automaticamente pelo Algoritmo Ge
 
 **Distribuição Circular**:
 
-![Rota Circular](Python.IA-OtimizacaoRotas/circular_plots1.png)
+![Rota Circular](circular/circular_plots1.png)
 
 *Gráfico da melhor rota para pontos dispostos em círculo e evolução da distância ao longo das gerações.*
 
 **Distribuição Uniforme**:
 
-![Rota Distribuída](Python.IA-OtimizacaoRotas/distribuida_plots1.png)
+![Rota Distribuída](distribuida/distribuida_plots1.png)
 
 *Gráfico da melhor rota para pontos distribuídos uniformemente em um espaço 2D e progresso do algoritmo.*
