@@ -52,7 +52,7 @@ cd Python.IA-OtimizacaoRotas
 
 /
 
-── genetic.py         # Implementação do Algoritmo Genético
+── genetic2.py         # Implementação do Algoritmo Genético
 
 ── distribuida/       # Imagem gerada com pontos e resultados para distribuição uniforme
 
